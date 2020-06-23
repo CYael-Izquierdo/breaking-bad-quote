@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import styled from "@emotion/styled";
 import Quote from "./components/Quote";
 
-const apiUrl = "http://breaking-bad-quotes.herokuapp.com/v1/quotes";
+const apiUrl = "https://breaking-bad-quotes.herokuapp.com/v1/quotes";
 
 const Container = styled.div`
   display: flex;
