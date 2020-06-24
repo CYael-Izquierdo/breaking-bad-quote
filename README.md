@@ -1,4 +1,4 @@
-### https://breaking-bad-quotes.herokuapp.com/v1/quotes
+### https://friendly-agnesi-d3b7bb.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
